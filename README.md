@@ -12,11 +12,11 @@
 
 2. Go to env folder then activate the virtualenv `source bin/activate` (dev) will appear before the prompt
 
-You can now run the script entrypoint.sh
+You can now run the script entrypoint.sh to launch app
 
 ### Test
 
-run `sh request.sh $HOST`. (Ex : sh request.sh 35.239.83.105)
+run `sh request.sh $HOST`
 
 ## Local with Minikube (k8s)
 
